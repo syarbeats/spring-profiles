@@ -1,0 +1,6 @@
+com\learning\spring\spring_profile\MyConfig.class
+com\learning\spring\spring_profile\LicenseConfigProdImpl.class
+com\learning\spring\spring_profile\ILicenseConfig.class
+com\learning\spring\spring_profile\App.class
+com\learning\spring\spring_profile\DevBean.class
+com\learning\spring\spring_profile\LicenseConfigDevImpl.class
